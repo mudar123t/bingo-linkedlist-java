@@ -22,6 +22,17 @@ This is a Java-based Bingo game developed as a university project for the Data S
 1. Clone the repo
 2. Make sure you have Java and Maven installed
 3. Run the app using:
-   ```bash
+   bash
    mvn clean install
    mvn exec:java -Dexec.mainClass="com.mycompany.datastructurproje.DataStructurProje"
+
+Project Structure
+src/main/java – All Java source files
+
+pom.xml – Maven build configuration
+
+target/ – Compiled files (auto-generated)
+
+ Author
+Developed by Mudar Shawakh as a personal project for academic purposes.
+
